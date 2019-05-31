@@ -1,0 +1,125 @@
+body{
+	margin: 0;
+	background-image: url(../img/3.jpg);
+	background-size: cover;
+}
+
+.dashboard{
+	width: 100%;
+	height: 100vh;
+	display: flex;
+}
+
+.right-dashboard{
+	width: 90%;
+	height: 100vh;
+	background: none;
+	margin: 0;
+	display: block;
+}
+
+.title h4{
+	color: white;
+}
+
+.left-dashboard{
+	width: 10%;
+	margin: 0;
+}
+
+.title{
+	width: 100%;
+	height: 100px;
+	background: none;
+	margin: 0;
+}
+
+.title h3{
+	margin: 0;
+	padding-top: 25px;
+	padding-left: 25px;
+	font-size: 40px;
+	color: white;
+}
+
+.main{
+	width: 1728px;
+	height: 866px;
+	background: none;
+	display: flex;
+	color: white;
+}
+
+.main-1{
+	width: 400px;
+	height: 825px;
+	background: none;
+	margin: 0px 0px 25px 25px;
+	border: 8px solid red;
+	display: block;
+}
+
+.main-2{
+	width: 760px;
+	height: 825px;
+	background: none;
+	margin: 0px 0px 25px 25px;
+	border: 8px solid red;
+}
+
+.main-3{
+	width: 425px;
+	height: 825px;
+	background: none;
+	margin: 0px 0px 25px 25px;
+	border: 8px solid red;
+}
+
+.profile{
+	width: 370px;
+	height: 125px;
+	background: #282828;
+	margin: 15px;
+	display: flex;
+}
+
+.user-tournament{
+	width: 370px;
+	height: 650px;
+	background: none;
+	margin: 0px 15px 15px 15px;
+	color: white;
+}
+
+.user-tournament h2{
+	margin: 0;
+	font-size: 18px;
+	font-weight: lighter;
+}
+
+.pic-profile{
+	width: 125px;
+	height: 125px;
+	background: red;
+	text-align: center;
+}
+
+.data-profile{
+	width: 245px;
+	height: 125px;
+	background:orange;
+	display: block;
+}
+
+.name-profile{
+	width: 245px;
+	height: 70px;
+	background:blue;
+}
+
+.welcome {
+	color: white;
+	width: 100%;
+	height: 100vh;
+	display: flex;
+}
